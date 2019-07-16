@@ -9,7 +9,7 @@ Elasticsearch中文相关资料整理，包括书籍、视频、博文等。
 - [Elasticsearch Plugins and Integrations](https://www.elastic.co/guide/en/elasticsearch/plugins/current/index.html) 插件集成指南
 - [Elasticsearch Clients](https://www.elastic.co/guide/en/elasticsearch/client/index.html) 客户端使用指南
 - [Elasticsearch: 精华版](https://liuzxc.gitbooks.io/elasticsearch_reference_cn/basic_concepts.html)
--[Elasticsearch 5.4 中文文档](https://elasticsearch.apachecn.org/#/)
+- [Elasticsearch 5.4 中文文档](https://elasticsearch.apachecn.org/#/)
 
 ## 插件
 - [elasticsearch-rtf](https://github.com/medcl/elasticsearch-rtf)
