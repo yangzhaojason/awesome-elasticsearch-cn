@@ -3,6 +3,7 @@ Elasticsearch中文相关资料整理，包括书籍、视频、博文等。
 英文相关资料请移步[dzharii/awesome-elasticsearch](https://github.com/dzharii/awesome-elasticsearch)。
 
 ## 官网资料
+- [Elasticsearch（权威指南）中文版](https://es.xiaoleilu.com/010_Intro/10_Installing_ES.html)
 - [Elasticsearch: 权威指南](https://www.elastic.co/guide/cn/elasticsearch/guide/current/index.html)
 - [Elasticsearch Reference](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html) 官方文档
 - [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html) 权威指南
